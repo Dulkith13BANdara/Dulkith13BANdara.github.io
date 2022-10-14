@@ -23,6 +23,12 @@
     }
 
 .tdm{
+    font-size:10px;
+    font-weight:bold;
+    background:white;
+    color:black;
+    border:none;
+    border-radius:20%;
 padding:5px;
     position: -webkit-sticky;
 bottom:10;
@@ -31,6 +37,14 @@ bottom:10;
 
 }
 
+.tdm:hover{
+    background:black;
+    color:white;
+    }
+.dark .tdm:hover{
+    background:white;
+    color:black;
+    }
 .dark .header{
 
     background:#28a70c;
