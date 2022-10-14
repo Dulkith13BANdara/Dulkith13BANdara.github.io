@@ -1,0 +1,87 @@
+
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+.header{
+    text-align: center;
+    padding: 15 20px;
+    background: #92ef6bff;
+    font-family:;
+    color: white;
+}
+
+.footer{
+padding: 10px;
+  width: 100%;
+  background-color:gray;
+  color: white;
+  text-align: center;
+}
+
+.poster{
+    text-align: center;
+    padding:90 50;
+    background:#92e77dff;
+    margin:20px;
+    font-size: 45px;
+    font-family: ;
+}
+
+h2{
+    font-size: 30px;
+    text-decoration: underline;
+    margin:20px;
+    text-decoration-color: #92792ae1;
+}
+
+.section img{
+    margin:35px;
+    max-width: 250px;
+    display:;
+    border-radius: 20px;
+}
+
+#mobile{
+    margin-left: 50px;
+}
+
+#desktop{
+    margin-left:10px;
+}
+
+#mobile img{
+    max-width: 150px;
+}
+
+.section img:hover{
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+#dialog{
+disply:block;
+position: fixed;
+}
+
+}
+
+body{
+    margin:0;
+    font-family:'Lato';
+}
+
+.section {
+  display: flex;
+  flex:30%;
+  flex-wrap: wrap;
+}
+
+.section img{
+    max-width: 250px;
+    margin: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+table{
+    border:2px solid gray;
+    
+}
