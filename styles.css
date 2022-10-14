@@ -18,6 +18,10 @@
 
 }
 
+.dark .poster{
+    background:#314b1b;
+    }
+
 .tdm{
 padding:5px;
     top:5%;
@@ -26,13 +30,14 @@ padding:5px;
 
 .dark .header{
 
-    
+    background:#28a70c;
 
 }
 
 .dark .footer{
 
     color: black;
+    background:#333333;
 
 }
 
