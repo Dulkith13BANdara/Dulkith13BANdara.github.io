@@ -24,7 +24,9 @@
 
 .tdm{
 padding:5px;
-    position:fixed;
+    position: -webkit-sticky;
+
+  position: sticky;
     right:10;
 
 }
