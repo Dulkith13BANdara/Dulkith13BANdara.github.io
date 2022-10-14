@@ -10,6 +10,46 @@
     color: white;
 }
 
+.dark{
+
+    background: black;
+
+    color: white;
+
+}
+
+.tdm{
+padding:5px;
+    top:10;
+
+}
+
+.dark .header{
+
+    
+
+}
+
+.dark .footer{
+
+    color: black;
+
+}
+
+.dark .footer a{
+
+    color: red;
+
+}
+
+.dark .tdm{
+
+    background: black;
+
+    color:white;
+
+}
+
 .footer{
 padding: 10px;
   width: 100%;
