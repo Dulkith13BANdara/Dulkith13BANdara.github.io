@@ -14,5 +14,5 @@ function Dark() {
 
 function Go() {
 document.getElementById('demo').style.display='block';
-document.getElementById('demeLink').style.display='none';
+document.getElementById('demoLink').style.display='none';
 }
