@@ -12,5 +12,7 @@ function Dark() {
   element.classList.toggle("dark");
 }
 
-document.getElementById('demo').style.display='block'
-document.getElementById('demeLink').style.display='none'
+function Go() {
+document.getElementById('demo').style.display='block';
+document.getElementById('demeLink').style.display='none';
+}
