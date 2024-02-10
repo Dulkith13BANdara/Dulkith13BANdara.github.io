@@ -2,7 +2,7 @@ function Dark() {
    var element = document.body;
   element.classList.toggle("dark");
 
-   var x = document.getElementById("tdm");
+   var x = document.getElementById("Mod");
   if (x.innerHTML === "Dark Mode") {
     x.innerHTML = "Light Mode";
   } else {
