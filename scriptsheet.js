@@ -1,7 +1,7 @@
 function Dark() {
-  var x = document.getElement("body");
+  var x = document.getElementByClassName("tdm");
   if (x.innerHTML === "Dark mode") {
-    x.innerHTML = "light mode";
+    x.innerHTML = "Light mode";
   } else {
     x.innerHTML = "Dark mode";
   }
