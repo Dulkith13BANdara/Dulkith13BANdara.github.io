@@ -1,5 +1,5 @@
 function Dark() {
-  var x = document.getElementByClassName("tdm");
+  var x = document.getElementById("tdm");
   if (x.innerHTML === "Dark Mode") {
     x.innerHTML = "Light Mode";
   } else {
