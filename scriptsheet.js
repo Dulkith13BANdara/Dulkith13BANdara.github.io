@@ -1,5 +1,5 @@
 function Dark() {
-  var x = document.getElementById("myDIV");
+  var x = document.getElement("body");
   if (x.innerHTML === "Dark mode") {
     x.innerHTML = "light mode";
   } else {
