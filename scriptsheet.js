@@ -11,3 +11,6 @@ function Dark() {
    var element = document.body;
   element.classList.toggle("dark");
 }
+
+document.getElementById('demo').style.display='block'
+document.getElementById('demeLink').style.display='none'
