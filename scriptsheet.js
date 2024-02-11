@@ -14,3 +14,11 @@ function Go() {
 document.getElementById('demo').style.display='block';
 document.getElementById('demoLink').style.display='none';
 }
+
+$(function() {
+         $("head").load("header.html");
+      });
+
+$(function() {
+         $("#includeHtml").load("result.html");
+      });
