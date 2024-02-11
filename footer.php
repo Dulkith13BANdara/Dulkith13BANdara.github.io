@@ -1,4 +1,4 @@
-<?php 3cho '
+<?php echo '
 <div class="footer">
         <p>
             Powered by GITHUB
