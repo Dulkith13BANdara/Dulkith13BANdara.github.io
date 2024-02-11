@@ -15,10 +15,10 @@ document.getElementById('demo').style.display='block';
 document.getElementById('demoLink').style.display='none';
 }
 
-// Get the modal
+
 var modal = document.getElementById("myModal");
 
-// Get the button that opens the modal
+
 var btn = document.getElementById("myBtn");
 
 // Get the <span> element that closes the modal
